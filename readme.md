@@ -21,5 +21,5 @@
 - File is in Jupyter Notebook format to be able to play with image results real time
 
 ## Libraries Used
-[Pillow (PIL)](https://pillow.readthedocs.io/en/stable/)
+[Pillow (PIL)](https://pillow.readthedocs.io/en/stable/)  
 [Numpy](https://numpy.org/doc/)
